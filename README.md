@@ -1,9 +1,8 @@
-# PyconKE
-Spatial Data Science
 
 
 
-# PyconKe-Spatial-Analysis 2022 Conference
+
+# PyconKe-Spatial-Data SCience 2022 Conference
 
  
 # Requirements
