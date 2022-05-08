@@ -12,5 +12,5 @@ Spatial Data Science
  Google Earth engine Account
  Python3 installed
  Geemap
- Anaconda Navigator
+ Anaconda Navigator or Colab
 ```
