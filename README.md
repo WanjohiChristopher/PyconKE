@@ -14,3 +14,4 @@ Spatial Data Science
  Geemap
  Anaconda Navigator or Colab
 ```
+To Create Google Earth Engine Account follow this link.
