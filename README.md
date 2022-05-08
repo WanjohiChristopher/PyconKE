@@ -16,3 +16,5 @@ Spatial Data Science
  Anaconda Navigator or Colab
 ```
 To Create Google Earth Engine Account follow this [link](https://code.earthengine.google.com/).
+
+To Download shapefiles for your AOI check  [here](https://www.diva-gis.org/gdata)
