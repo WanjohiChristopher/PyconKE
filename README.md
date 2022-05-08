@@ -5,9 +5,6 @@ Spatial Data Science
 
 # PyconKe-Spatial-Analysis 2022 Conference
 
-
-
- 
  
 # Requirements
 
