@@ -21,6 +21,6 @@
 
 AUTHORS:
 
-WANJOHI cHRISTOPHER
+WANJOHI cHRISTOPHER(https://github.com/WanjohiChristopher)
 
-NICHOLAS MUSAU
+[NICHOLAS MUSAU](https://github.com/nich02)
