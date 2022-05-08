@@ -10,6 +10,7 @@ Spatial Data Science
 
 ```
  Google Earth engine Account
+ Shapefiles
  Python3 installed
  Geemap
  Anaconda Navigator or Colab
